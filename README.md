@@ -1,4 +1,4 @@
-# CSE 332 Evaluation Scripts
+# Evaluation Scripts
 Each directory contains Java scripts, brief usage discussions, and associated
 files that I made in order to collect data automatically on performance for
 different data structures and algorithms for each project in a CSE course at the
